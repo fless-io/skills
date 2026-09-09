@@ -1,6 +1,6 @@
 ---
 name: fless-apartment-hunt
-description: Start a Fless apartment hunt for your user. Use when they mention moving, relocating, renting, apartments, neighborhoods, rent prices, or apartment hunting. Research live cities, median rents, WalkRating scores and POIs, collect a complete hunt brief (budget, bedrooms, move-in date, POIs, amenities, binary restrictions like 55+ communities / pets / smoking), then build a validated pre-filled hunt link the human reviews and confirms.
+description: Start a Fless apartment hunt for your user (Washington DC / Maryland / Virginia only — always check city coverage first). Use when they mention moving, relocating, renting, apartments, neighborhoods, rent prices, or apartment hunting. Research live cities, median rents, WalkRating scores and POIs, collect a complete hunt brief (budget, bedrooms, move-in date, POIs, amenities, binary restrictions like 55+ communities / pets / smoking), then build a validated pre-filled hunt link the human reviews and confirms.
 license: MIT
 compatibility: Works with any MCP-capable agent (tools used via MCP); instructions are plain markdown and safe for all agentskills.io-compatible runtimes.
 metadata:
@@ -25,6 +25,18 @@ email, and pays — never you.
 - "Which neighborhoods are walkable in {city}?"
 - "Set up an apartment search for me" / "start a hunt"
 - Any question about Fless rents, WalkRating scores, neighborhoods, or cities
+
+## Coverage check (always do this first)
+
+Fless operates in **Washington, DC / Maryland / Virginia** only. Before
+anything else, verify the user's target city is live:
+
+- Call `search_cities` or fetch `https://fless.io/api/v1/cities/listing`
+- **Live** → proceed with the full workflow below
+- **Coming soon** → tell the user and offer the waitlist
+  (`https://fless.io/city/{slug}`) instead of a hunt
+- **Not listed** → tell the user Fless doesn't operate in their area yet.
+  Do NOT attempt to build a hunt link for an unsupported city.
 
 ## Step 1 — Research with live data
 
