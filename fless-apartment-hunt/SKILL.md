@@ -35,7 +35,10 @@ anything else, verify the user's target city is live:
 - **Live** → proceed with the full workflow below
 - **Coming soon** → tell the user and offer the waitlist
   (`https://fless.io/city/{slug}`) instead of a hunt
-- **Not listed** → tell the user Fless doesn't operate in their area yet.
+- **Not listed** → call `request_city` with the city and 2-letter state code
+  to record the request (e.g. `{"city": "Houston", "state": "TX"}`), then tell
+  the user their request has been recorded. You can also call
+  `get_city_request_stats` to see how much demand their city has.
   Do NOT attempt to build a hunt link for an unsupported city.
 
 ## Step 1 — Research with live data
