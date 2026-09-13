@@ -1,6 +1,6 @@
 ---
 name: fless-apartment-hunt
-description: Start a Fless apartment hunt for your user (Washington DC / Maryland / Virginia only — always check city coverage first). Use when they mention moving, relocating, renting, apartments, neighborhoods, rent prices, or apartment hunting. Research live cities, median rents, WalkRating scores and POIs, collect a complete hunt brief (budget, bedrooms, move-in date, POIs, amenities, binary restrictions like 55+ communities / pets / smoking), then build a validated pre-filled hunt link the human reviews and confirms.
+description: Start a Fless apartment hunt for your user (Washington DC / Maryland / Virginia only — always check city coverage first). Use when they mention moving, relocating, renting, apartments, neighborhoods, rent prices, or apartment hunting. Research live cities, median rents, WalkRating scores and POIs, collect a complete hunt brief (budget, bedrooms, move-in date, POIs, amenities, binary restrictions like 55+ communities / pets / smoking), then build a validated pre-filled hunt link the human reviews and confirms. If the city is not served, call request_city to record their interest.
 license: MIT
 compatibility: Works with any MCP-capable agent (tools used via MCP); instructions are plain markdown and safe for all agentskills.io-compatible runtimes.
 metadata:
