@@ -41,6 +41,30 @@ anything else, verify the user's target city is live:
   `get_city_request_stats` to see how much demand their city has.
   Do NOT attempt to build a hunt link for an unsupported city.
 
+## Reporting problems
+
+If a Fless tool or data source misbehaves (tool errors, wrong or stale data,
+missing cities, unclear documentation), call `submit_error_report` so we can
+fix it:
+
+- `error_type`: one of `tool_error`, `bad_data`, `missing_city`,
+  `documentation`, `auth`, `rate_limit`, `other`
+- `tool_name`: the tool you called (e.g. `build_hunt_link`, `search_cities`,
+  `docs`, `other`)
+- `error_code`: optional; the code from the error contract if present
+  (e.g. `RATE_LIMITED`)
+- `what_happened`: required; 10-1000 characters describing what actually
+  occurred
+- `what_expected`: optional; what you expected instead
+
+The response returns a `report_token` (e.g. `err_xYz...`); reference it in
+follow-ups. Do NOT include personal data (names, emails, phone numbers, or
+account details) in any field. Rate limit: 5 reports per hour.
+
+Skill-only users (no MCP): `POST https://fless.io/api/v1/agent/error-reports`
+with the same fields as JSON:
+`{"error_type": "tool_error", "tool_name": "docs", "what_happened": "..."}`.
+
 ## Step 1 — Research with live data
 
 Connect the Fless MCP server if available (`https://mcp.fless.io/mcp`), or use

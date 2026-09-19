@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.0 (2026-09-19)
+- **New `submit_error_report` MCP tool** — agents report errors/problems with tools or data
+- REST endpoint `POST /api/v1/agent/error-reports` for skill-only users
+- Admin triage: Error reports section in Agent Analytics (status workflow, notes)
+- MCP server version 1.2.0 (11 tools)
+- New `agent_error_reports` table (migration 086, additive-only)
+- Security: strict enums + regex validation, injection-phrase blocklist, 5 req/hr/IP rate limit, no PII collected
+
 ## 1.2.0 (2026-09-12)
 - **New `request_city` MCP tool** — agents can request Fless expansion to new cities
 - **New `get_city_request_stats` MCP tool** — see which cities have the most demand
