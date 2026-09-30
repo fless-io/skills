@@ -29,17 +29,17 @@ carries `{error: {code, message, hint, docs_url, retryable}}`.
 
 ## REST equivalents
 
-- `GET /api/v1/cities/listing` — live + coming-soon cities
-- `GET /api/v1/cities/{city_slug}/neighborhoods` — rents + scores
-- `GET /api/v1/cities/{city_slug}/neighborhoods/{nb_slug}/landing` — full payload
-- `GET /api/v1/map/search?query=&lat=&lng=&radius=` — POI search
+- `GET /api/v1/cities/listing`: live + coming-soon cities
+- `GET /api/v1/cities/{city_slug}/neighborhoods`: rents + scores
+- `GET /api/v1/cities/{city_slug}/neighborhoods/{nb_slug}/landing`: full payload
+- `GET /api/v1/map/search?query=&lat=&lng=&radius=`: POI search
 - `POST /api/v1/agent/hunt-links` `{"hunt_params": {...}, "channel": "..."}` → 201 `{token, url, missing_fields, issues, complete}`
-- `GET /api/v1/agent/hunt-links/{token}` — resolve (marks opened)
-- `GET /api/v1/agent/hunt-links/{token}/status` — `created|opened|started`
-- `GET /api/v1/hunts/{id}/review` — full approval-gate payload (hunt owner; requires signin)
-- `GET /api/v1/hunts/{id}/review/status` — lightweight `{review_state, counts}` polling payload
-- `POST /api/v1/hunts/{id}/review/decision` — the explicit decision that releases outreach (hunt owner; requires signin). The dashboard calls this for the human; agents never call it on the human's behalf.
-- `GET /api/v1/openapi.json` — curated public spec
+- `GET /api/v1/agent/hunt-links/{token}`: resolve (marks opened)
+- `GET /api/v1/agent/hunt-links/{token}/status`: `created|opened|started`
+- `GET /api/v1/hunts/{id}/review`: full approval-gate payload (hunt owner; requires signin)
+- `GET /api/v1/hunts/{id}/review/status`: lightweight `{review_state, counts}` polling payload
+- `POST /api/v1/hunts/{id}/review/decision`: the explicit decision that releases outreach (hunt owner; requires signin). The dashboard calls this for the human; agents never call it on the human's behalf.
+- `GET /api/v1/openapi.json`: curated public spec
 
 ## Hunt creation response (2.0.0 approval gate)
 
