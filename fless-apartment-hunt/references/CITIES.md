@@ -2,14 +2,14 @@
 
 Fless currently operates in **Washington, DC / Maryland / Virginia** only.
 
-## Live now — hunts can start
+## Live now (hunts can start)
 
 - **Alexandria, VA** (slug `alexandria`, city_id 17)
 - **Annapolis, MD** (slug `annapolis`, city_id 13)
 - **Frederick, MD** (slug `frederick`, city_id 14)
-- **Leesburg, VA** (slug `leesburg`, city_id 6) — Historic charm meets modern convenience in Loudoun County, 35 miles west of DC.
+- **Leesburg, VA** (slug `leesburg`, city_id 6): Historic charm meets modern convenience in Loudoun County, 35 miles west of DC.
 
-## Coming soon — waitlist only, hunts cannot start
+## Coming soon (waitlist only, hunts cannot start)
 
 - Arlington, VA (slug `arlington`)
 - Baltimore, MD (slug `baltimore`)
