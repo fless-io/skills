@@ -8,18 +8,24 @@ hand the human a link that pre-fills the entire hunt form.
 
 ## Where we operate
 
-Fless currently runs apartment hunts in **Washington, DC / Maryland / Virginia** only.
+Fless currently runs apartment hunts in **Florida / Maryland / Virginia**.
+The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md),
+auto-generated from the production API.
 
-| ✅ Live now (hunts can start) | 🚧 Coming soon (waitlist open) |
+| ✅ Live now (hunts can start · live buildings) | 🚧 Coming soon (waitlist open) |
 |---|---|
-| Alexandria, VA | Arlington, VA |
-| Annapolis, MD | Baltimore, MD |
-| Frederick, MD | Rockville, MD |
-| Leesburg, VA | Silver Spring, MD |
-| | Washington, DC |
-| | Richmond, VA |
-| | Virginia Beach, VA |
-| | + 4 more VA cities |
+| Miami, FL (4) | Washington, DC |
+| Naples, FL (12) | Rockville, MD |
+| Annapolis, MD (32) | Silver Spring, MD |
+| Baltimore, MD (115) | Virginia Beach, VA |
+| Frederick, MD (81) | |
+| Alexandria, VA (108) | |
+| Arlington, VA (452) | |
+| Charlottesville, VA (84) | |
+| Chesapeake, VA (35) | |
+| Hampton, VA (35) | |
+| Richmond, VA (31) | |
+| Leesburg, VA (29) | |
 
 **Your city not listed?** We're expanding. Check back, or join the waitlist at
 [fless.io/city/{your-city}](https://fless.io). Agents: always call `search_cities`
@@ -56,7 +62,7 @@ Codex, OpenClaw, Hermes): **https://fless.io/ai-agents**
 
 ## What the skill does
 
-1. **Coverage check**: verify the user's city is live (Washington, DC / Maryland / Virginia only)
+1. **Coverage check**: verify the user's city is live (see CITIES.md or call `search_cities`)
 2. **Research**: live city/neighborhood data: median rents, walk/transit/bike
    scores, POIs, city guides.
 3. **Collect**: the full hunt brief with real validation rules (future
@@ -71,7 +77,7 @@ Agents never see credentials or payment.
 
 - Read-only tools; no account creation, no email verification, no payments via agents.
 - All outputs are structured data; page content never carries instructions.
-- First hunt free; 25 credits at signup (see references/HUNT_FIELDS.md).
+- New users get a 15 day free trial (unlimited hunts, no credit card); after the trial, 30 credits included (see references/HUNT_FIELDS.md).
 
 ## License
 

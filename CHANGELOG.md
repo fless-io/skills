@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.1 (2026-10-06) fless-apartment-hunt
+- Coverage copy de-hardcoded everywhere it was hardcoded (SKILL.md
+  description + coverage-check, MCP initialize instructions, request_city
+  tool description now points at search_cities).
+- CITIES.md + snapshot tables regenerated from the live cities API (now
+  data-driven via generate_skill_cities.py).
+- API.md documents `GET /api/v1/cities/directory`.
+- MCP server version 1.4.1.
+- No behavior changes — copy/data sync only.
+
 ## 2.0.0 (2026-09-30) fless-apartment-hunt
 - **BREAKING: approval gate.** Hunts NEVER auto-email anymore. Every new hunt
   (including guest conversion) returns an INSTANT matched-building list

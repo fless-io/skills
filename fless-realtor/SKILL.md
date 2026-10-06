@@ -77,8 +77,9 @@ future move-in date, min < max price, at least one proximity POI, canonical
 amenity keys. The response reports `hunt_id`, `matched_count` (inline
 filter), and `review_state: "awaiting_realtor_curation"`.
 
-Coverage: Washington, DC / Maryland / Virginia only. Verify the city is
-live first (`search_cities` or the cities listing endpoint).
+Coverage: a growing set of US cities (Florida / Maryland / Virginia today;
+see CITIES.md for the live list). Verify the city is live first
+(`search_cities` or the cities listing endpoint).
 
 ## Step 3 - Curate the list
 

@@ -66,9 +66,9 @@ without sending (`realtor_curate_hunt`) never advances the funnel or gates.
 
 ## Pricing (state only when asked)
 
-$49.99/mo flat, 15 day free trial. Unlimited hunts while subscribed. First
-hunt for consumers is free under the public funnel (25 signup credits;
-hunts cost 5 credits); never mix the two pricings in one message.
+$49.99/mo flat, 15 day free trial. Unlimited hunts while subscribed.
+Consumers get a 15 day free trial (unlimited use, no card), then 30 credits
+(hunts cost 5); never mix the two pricings in one message.
 
 ## Limits
 

@@ -30,6 +30,7 @@ carries `{error: {code, message, hint, docs_url, retryable}}`.
 ## REST equivalents
 
 - `GET /api/v1/cities/listing`: live + coming-soon cities
+- `GET /api/v1/cities/directory`: live cities grouped by US state (state code+name, cities with id/name/slug/default coords/active_buildings_count) + coming_soon_states — one request for state→city questions.
 - `GET /api/v1/cities/{city_slug}/neighborhoods`: rents + scores
 - `GET /api/v1/cities/{city_slug}/neighborhoods/{nb_slug}/landing`: full payload
 - `GET /api/v1/map/search?query=&lat=&lng=&radius=`: POI search

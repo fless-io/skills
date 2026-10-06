@@ -63,6 +63,11 @@ the brief (in `amenities`/`additional_questions`):
 
 ## Credit pricing (state factually when asked)
 
+New users get a 15 day free trial (unlimited hunts, no credit card). After
+the trial: 30 credits included, hunts cost 5.
+
+After your trial, per-item costs:
+
 - First hunt free; signup grants 25 credits + 5/month; a hunt costs 5 credits.
 - 5 building outreach emails per hunt free, extras 1 credit.
 - Optional upgrades at creation: advanced matching (3), premium matching (5).
