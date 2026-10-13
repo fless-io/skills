@@ -8,24 +8,32 @@ hand the human a link that pre-fills the entire hunt form.
 
 ## Where we operate
 
-Fless currently runs apartment hunts in **Florida / Maryland / Virginia**.
-The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md),
-auto-generated from the production API.
+<!-- city-coverage:start -->
 
-| ✅ Live now (hunts can start · live buildings) | 🚧 Coming soon (waitlist open) |
+Fless currently runs apartment hunts in **Florida / Georgia / Maryland / Virginia**.
+The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md), auto-generated from
+the production API.
+
+| ✅ Live now | 🚧 Coming soon |
 |---|---|
-| Miami, FL (4) | Washington, DC |
-| Naples, FL (12) | Rockville, MD |
-| Annapolis, MD (32) | Silver Spring, MD |
-| Baltimore, MD (115) | Virginia Beach, VA |
-| Frederick, MD (81) | |
-| Alexandria, VA (108) | |
-| Arlington, VA (452) | |
-| Charlottesville, VA (84) | |
-| Chesapeake, VA (35) | |
-| Hampton, VA (35) | |
-| Richmond, VA (31) | |
-| Leesburg, VA (29) | |
+| Alexandria, VA | Rockville, MD |
+| Annapolis, MD | Silver Spring, MD |
+| Arlington, VA | Virginia Beach, VA |
+| Atlanta, GA | Washington, DC |
+| Baltimore, MD |  |
+| Charlottesville, VA |  |
+| Chesapeake, VA |  |
+| Frederick, MD |  |
+| Hampton, VA |  |
+| Jacksonville, FL |  |
+| Leesburg, VA |  |
+| Miami, FL |  |
+| Naples, FL |  |
+| Orlando, FL |  |
+| Richmond, VA |  |
+| Tampa, FL |  |
+
+<!-- city-coverage:end -->
 
 **Your city not listed?** We're expanding. Check back, or join the waitlist at
 [fless.io/city/{your-city}](https://fless.io). Agents: always call `search_cities`

@@ -1,5 +1,23 @@
 # Changelog
 
+## 2.1.0 (2026-10-13) fless-apartment-hunt
+- **Coverage sync: Atlanta GA, Jacksonville FL, Orlando FL, and Tampa FL are
+  now LIVE** alongside the existing Florida / Maryland / Virginia cities -
+  16 live cities total. Fless now runs apartment hunts across
+  **Florida / Georgia / Maryland / Virginia**.
+- Every README city table (GitHub repo, PyPI + npm package pages) is now
+  REGENERATED from the production API (`generate_readme_tables.py`) instead
+  of hand-maintained - city names only, so tables can never drift again.
+- CITIES.md regenerated from the live listing (adds the four new cities).
+- MCP Registry listing description corrected (was "DC, Maryland and
+  Virginia" from before Florida went live).
+- fless-mcp 1.5.0: UA strings now derive from the package version instead
+  of a hardcoded literal (the npm/PyPI UA said 1.3.0 while the package was
+  1.4.1); npm/PyPI descriptions and keywords mention the coverage states.
+- fless-realtor coverage sentence points at CITIES.md instead of a
+  hand-typed state list.
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.0.1 (2026-10-06) fless-apartment-hunt
 - Coverage copy de-hardcoded everywhere it was hardcoded (SKILL.md
   description + coverage-check, MCP initialize instructions, request_city
