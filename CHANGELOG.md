@@ -14,6 +14,9 @@
 - fless-mcp 1.5.0: UA strings now derive from the package version instead
   of a hardcoded literal (the npm/PyPI UA said 1.3.0 while the package was
   1.4.1); npm/PyPI descriptions and keywords mention the coverage states.
+- fless-mcp 1.5.1: npm metadata republish - the 1.5.0 npm publish carried
+  the pre-sync description because the publish beat the description
+  regen. PyPI + MCP Registry moved in lockstep.
 - fless-realtor coverage sentence points at CITIES.md instead of a
   hand-typed state list.
 - No MCP tool behavior changes - data + copy sync only.
