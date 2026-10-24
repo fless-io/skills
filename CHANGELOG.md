@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.2.0 (2026-10-24) fless-apartment-hunt + fless-realtor
+- **Review + outreach channels**: outreach reaches approved buildings by
+  email OR by the building's website contact form (no email needed on
+  file); contact-form conversations continue as hunt threads. Review
+  payload adds Close Matches (near-miss proposals, add-only; bulk approve
+  never adds them), match_tier, near_miss_detail, richer building details
+  (price, bedroom options, amenities). Decision response reports the
+  email vs contact-form split. Copy sync across both skills; no protocol
+  or pricing changes (agents still only build links and poll; approvals
+  stay with the human). MCP server 1.4.2.
+
 ## 2.1.0 (2026-10-13) fless-apartment-hunt
 - **Coverage sync: Atlanta GA, Jacksonville FL, Orlando FL, and Tampa FL are
   now LIVE** alongside the existing Florida / Maryland / Virginia cities -

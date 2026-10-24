@@ -12,7 +12,8 @@ metadata:
 # Fless for Realtors
 
 Fless (https://fless.io) runs apartment hunts for CLIENTS: their criteria go
-in, matched buildings come out, Fless emails the buildings, tracks replies,
+in, matched buildings come out, Fless contacts the buildings (email or
+website contact form), tracks replies,
 and schedules tours. With the realtor tools you operate that funnel on behalf
 of your clients: invite them, start their hunts, curate the matched list,
 and hand it over for their approval.
@@ -45,7 +46,7 @@ immediately.
 
 ## The two-gate funnel (why curation exists)
 
-A hunt you create for a client NEVER emails buildings on its own. It parks
+A hunt you create for a client NEVER contacts buildings on its own. It parks
 at a gate and waits for explicit human decisions at TWO consecutive gates:
 
 1. **Realtor gate (awaiting_realtor_curation).** You review the matched
@@ -57,7 +58,8 @@ at a gate and waits for explicit human decisions at TWO consecutive gates:
    releases outreach. You cannot approve on their behalf; they cannot see
    buildings you removed or your private internal notes.
 
-Outreach (the actual "Fless emails the buildings" step) is released ONLY
+Outreach (email, or the building's website contact form when no email is
+on file) is released ONLY
 after the client approves. This is the entire point of the feature.
 
 ## Step 1 - Invite the client

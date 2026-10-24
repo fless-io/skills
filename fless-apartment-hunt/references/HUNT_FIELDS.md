@@ -69,7 +69,7 @@ the trial: 30 credits included, hunts cost 5.
 After your trial, per-item costs:
 
 - First hunt free; signup grants 25 credits + 5/month; a hunt costs 5 credits.
-- 5 building outreach emails per hunt free, extras 1 credit.
+- 5 building outreach contacts per hunt free (email or website contact form), extras 1 credit.
 - Optional upgrades at creation: advanced matching (3), premium matching (5).
 - Credits: $20/200, $40/450, $80/950, purchased by the human in the web app only.
 
