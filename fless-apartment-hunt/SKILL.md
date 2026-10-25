@@ -178,6 +178,13 @@ the matched buildings in the dashboard.
 
 See the repo CHANGELOG (https://github.com/fless-io/skills). Highlights:
 
+- 2.3.0 (2026-10-25): appointments + schedule step. Tours are CONFIRMED
+  by default (buildings offer times, they land on the user's calendar);
+  the user's lever is reschedule (quiet button, date picker with blocked
+  times). Schedule step at hunt creation: tour preference (guided /
+  self-guided / virtual) + the user's real calendar + availability mode.
+  .ics export (all tours or per-tour) for external calendar sync. Google
+  Maps links on every appointment card.
 - 2.2.0 (2026-10-24): review + outreach channels. Review payload adds
   Close Matches (near-miss proposals, add-only), match_tier, near_miss_detail
   and richer building details; decision response reports email vs contact-form
