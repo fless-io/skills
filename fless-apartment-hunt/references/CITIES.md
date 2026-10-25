@@ -1,6 +1,6 @@
 # City coverage (auto-generated from https://fless.io/api/v1/cities/listing)
 
-Fless currently operates in **District of Columbia / Florida / Georgia / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
+Fless currently operates in **California / District of Columbia / Florida / Georgia / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
 
 ## Live now (hunts can start)
 
@@ -49,6 +49,7 @@ Fless currently operates in **District of Columbia / Florida / Georgia / Massach
 - **Reno, NV** (slug `reno`, city_id 65)
 - **Richmond, VA** (slug `richmond`, city_id 19): Virginia's capital city: historic charm, riverfront living, and a booming food scene
 - **Rock Hill, SC** (slug `rock-hill`, city_id 69)
+- **San Diego, CA** (slug `san-diego`, city_id 73)
 - **Sanford, FL** (slug `sanford`, city_id 55)
 - **Severn, MD** (slug `severn`, city_id 48)
 - **Signal Mountain, TN** (slug `signal-mountain`, city_id 68)

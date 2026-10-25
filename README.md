@@ -10,7 +10,7 @@ hand the human a link that pre-fills the entire hunt form.
 
 <!-- city-coverage:start -->
 
-Fless currently runs apartment hunts in **Florida / Georgia / Maryland / Virginia**.
+Fless currently runs apartment hunts in **California / District of Columbia / Florida / Georgia / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
 The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md), auto-generated from
 the production API.
 
@@ -19,19 +19,59 @@ the production API.
 | Alexandria, VA | Rockville, MD |
 | Annapolis, MD | Silver Spring, MD |
 | Arlington, VA | Virginia Beach, VA |
-| Atlanta, GA | Washington, DC |
+| Ashburn, VA |  |
+| Atlanta, GA |  |
 | Baltimore, MD |  |
+| Bethesda, MD |  |
+| Boston, MA |  |
+| Brandon, FL |  |
+| Burlington, NC |  |
+| Charlotte, NC |  |
 | Charlottesville, VA |  |
 | Chesapeake, VA |  |
+| Columbus, GA |  |
+| Daytona Beach, FL |  |
+| Fort Lauderdale, FL |  |
 | Frederick, MD |  |
+| Gastonia, NC |  |
 | Hampton, VA |  |
+| Hillsborough, NC |  |
 | Jacksonville, FL |  |
+| Kennett Square, PA |  |
+| Kernersville, NC |  |
+| Key Biscayne, FL |  |
+| Kissimmee, FL |  |
+| Lake Panasoffkee, FL |  |
 | Leesburg, VA |  |
+| Manhattan, NY |  |
+| Memphis, TN |  |
 | Miami, FL |  |
+| Miami Beach, FL |  |
+| Middle River, MD |  |
+| Midlothian, VA |  |
 | Naples, FL |  |
+| Nashville, TN |  |
+| North Port, FL |  |
 | Orlando, FL |  |
+| Parkville, MD |  |
+| Philadelphia, PA |  |
+| Pittsburgh, PA |  |
+| Prince Frederick, MD |  |
+| Raleigh, NC |  |
+| Reno, NV |  |
 | Richmond, VA |  |
+| Rock Hill, SC |  |
+| San Diego, CA |  |
+| Sanford, FL |  |
+| Severn, MD |  |
+| Signal Mountain, TN |  |
+| Sterling, VA |  |
 | Tampa, FL |  |
+| Towson, MD |  |
+| Vero Beach, FL |  |
+| Warsaw, VA |  |
+| Washington, DC |  |
+| Woodbridge, VA |  |
 
 <!-- city-coverage:end -->
 

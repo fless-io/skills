@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.4.0 (2026-10-25) fless-apartment-hunt
+- Coverage sync release: San Diego CA live + POI-derived hunt naming (name optional, derived titles).
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.6.0).
+- No MCP tool behavior changes - data + copy sync only.
+
+## 2.3.0 (2026-10-25) fless-apartment-hunt
+- Appointments: schedule-step availability, .ics export, review flows.
+- (Pushed as mirror commit 19b8d91 without a changelog entry; recorded here
+  for truthful version history.)
+
+
 ## 2.2.0 (2026-10-24) fless-apartment-hunt + fless-realtor
 - **Review + outreach channels**: outreach reaches approved buildings by
   email OR by the building's website contact form (no email needed on
