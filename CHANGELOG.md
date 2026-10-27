@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.5.0 (2026-10-27) fless-apartment-hunt
+- Coverage sync release: washington now live (40-city launch wave) coverage sync.
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.7.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.4.0 (2026-10-25) fless-apartment-hunt
 - Coverage sync release: San Diego CA live + POI-derived hunt naming (name optional, derived titles).
 - CITIES.md + all README city tables + package descriptions regenerated
