@@ -1,6 +1,6 @@
 # City coverage (auto-generated from https://fless.io/api/v1/cities/listing)
 
-Fless currently operates in **California / District of Columbia / Florida / Georgia / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
+Fless currently operates in **California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
 
 ## Live now (hunts can start)
 
@@ -17,6 +17,7 @@ Fless currently operates in **California / District of Columbia / Florida / Geor
 - **Charlotte, NC** (slug `charlotte`, city_id 35)
 - **Charlottesville, VA** (slug `charlottesville`, city_id 20): University town charm in the foothills of the Blue Ridge Mountains
 - **Chesapeake, VA** (slug `chesapeake`, city_id 21): Spacious Hampton Roads living with great schools and outdoor recreation
+- **Chicago, IL** (slug `chicago`, city_id 3)
 - **Columbus, GA** (slug `columbus`, city_id 70)
 - **Daytona Beach, FL** (slug `daytona-beach`, city_id 56)
 - **Fort Lauderdale, FL** (slug `fort-lauderdale`, city_id 40)
@@ -51,6 +52,7 @@ Fless currently operates in **California / District of Columbia / Florida / Geor
 - **Rock Hill, SC** (slug `rock-hill`, city_id 69)
 - **San Diego, CA** (slug `san-diego`, city_id 73)
 - **Sanford, FL** (slug `sanford`, city_id 55)
+- **Santa Clara, CA** (slug `santa-clara`, city_id 74)
 - **Severn, MD** (slug `severn`, city_id 48)
 - **Signal Mountain, TN** (slug `signal-mountain`, city_id 68)
 - **Sterling, VA** (slug `sterling`, city_id 42)

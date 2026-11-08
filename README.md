@@ -10,7 +10,7 @@ hand the human a link that pre-fills the entire hunt form.
 
 <!-- city-coverage:start -->
 
-Fless currently runs apartment hunts in **California / District of Columbia / Florida / Georgia / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
+Fless currently runs apartment hunts in **California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
 The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md), auto-generated from
 the production API.
 
@@ -29,6 +29,7 @@ the production API.
 | Charlotte, NC |  |
 | Charlottesville, VA |  |
 | Chesapeake, VA |  |
+| Chicago, IL |  |
 | Columbus, GA |  |
 | Daytona Beach, FL |  |
 | Fort Lauderdale, FL |  |
@@ -63,6 +64,7 @@ the production API.
 | Rock Hill, SC |  |
 | San Diego, CA |  |
 | Sanford, FL |  |
+| Santa Clara, CA |  |
 | Severn, MD |  |
 | Signal Mountain, TN |  |
 | Sterling, VA |  |
