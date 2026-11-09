@@ -10,7 +10,7 @@ hand the human a link that pre-fills the entire hunt form.
 
 <!-- city-coverage:start -->
 
-Fless currently runs apartment hunts in **California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
+Fless currently runs apartment hunts in **Arizona / California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Texas / Virginia**.
 The authoritative live list is [fless-apartment-hunt/references/CITIES.md](fless-apartment-hunt/references/CITIES.md), auto-generated from
 the production API.
 
@@ -37,6 +37,7 @@ the production API.
 | Gastonia, NC |  |
 | Hampton, VA |  |
 | Hillsborough, NC |  |
+| Houston, TX |  |
 | Jacksonville, FL |  |
 | Kennett Square, PA |  |
 | Kernersville, NC |  |
@@ -56,6 +57,7 @@ the production API.
 | Orlando, FL |  |
 | Parkville, MD |  |
 | Philadelphia, PA |  |
+| Phoenix, AZ |  |
 | Pittsburgh, PA |  |
 | Prince Frederick, MD |  |
 | Raleigh, NC |  |

@@ -1,6 +1,6 @@
 # City coverage (auto-generated from https://fless.io/api/v1/cities/listing)
 
-Fless currently operates in **California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Virginia**.
+Fless currently operates in **Arizona / California / District of Columbia / Florida / Georgia / Illinois / Massachusetts / Maryland / North Carolina / Nevada / New York / Pennsylvania / South Carolina / Tennessee / Texas / Virginia**.
 
 ## Live now (hunts can start)
 
@@ -25,6 +25,7 @@ Fless currently operates in **California / District of Columbia / Florida / Geor
 - **Gastonia, NC** (slug `gastonia`, city_id 64)
 - **Hampton, VA** (slug `hampton`, city_id 22): Waterfront Hampton Roads living with deep history and coastal charm
 - **Hillsborough, NC** (slug `hillsborough`, city_id 62)
+- **Houston, TX** (slug `houston`, city_id 75)
 - **Jacksonville, FL** (slug `jacksonville`, city_id 32)
 - **Kennett Square, PA** (slug `kennett-square`, city_id 71)
 - **Kernersville, NC** (slug `kernersville`, city_id 61)
@@ -44,6 +45,7 @@ Fless currently operates in **California / District of Columbia / Florida / Geor
 - **Orlando, FL** (slug `orlando`, city_id 33)
 - **Parkville, MD** (slug `parkville`, city_id 49)
 - **Philadelphia, PA** (slug `philadelphia`, city_id 38)
+- **Phoenix, AZ** (slug `phoenix`, city_id 76)
 - **Pittsburgh, PA** (slug `pittsburgh`, city_id 37)
 - **Prince Frederick, MD** (slug `prince-frederick`, city_id 50)
 - **Raleigh, NC** (slug `raleigh`, city_id 36)

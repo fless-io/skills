@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.8.0 (2026-11-09) fless-apartment-hunt
+- Coverage sync release: houston, phoenix now live.
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.14.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.7.0 (2026-11-08) fless-apartment-hunt
 - Coverage sync release: chicago, santa-clara now live.
 - CITIES.md + all README city tables + package descriptions regenerated
