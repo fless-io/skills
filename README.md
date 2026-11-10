@@ -26,15 +26,20 @@ the production API.
 | Boston, MA |  |
 | Brandon, FL |  |
 | Burlington, NC |  |
+| Charleston, SC |  |
 | Charlotte, NC |  |
 | Charlottesville, VA |  |
 | Chesapeake, VA |  |
 | Chicago, IL |  |
+| Columbia, SC |  |
 | Columbus, GA |  |
 | Daytona Beach, FL |  |
+| Durham, NC |  |
 | Fort Lauderdale, FL |  |
 | Frederick, MD |  |
 | Gastonia, NC |  |
+| Greensboro, NC |  |
+| Greenville, SC |  |
 | Hampton, VA |  |
 | Hillsborough, NC |  |
 | Houston, TX |  |
@@ -67,14 +72,18 @@ the production API.
 | San Diego, CA |  |
 | Sanford, FL |  |
 | Santa Clara, CA |  |
+| Savannah, GA |  |
 | Severn, MD |  |
 | Signal Mountain, TN |  |
+| St. Petersburg, FL |  |
 | Sterling, VA |  |
+| Suffolk, VA |  |
 | Tampa, FL |  |
 | Towson, MD |  |
 | Vero Beach, FL |  |
 | Warsaw, VA |  |
 | Washington, DC |  |
+| West Palm Beach, FL |  |
 | Woodbridge, VA |  |
 
 <!-- city-coverage:end -->
