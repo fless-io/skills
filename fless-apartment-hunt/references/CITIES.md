@@ -14,20 +14,20 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Boston, MA** (slug `boston`, city_id 39): Cobblestones meet CRISPR, harbor meets Kendall, T connects all
 - **Brandon, FL** (slug `brandon`, city_id 57): Major mall hub, Tampa minutes, suburban affordability
 - **Burlington, NC** (slug `burlington`, city_id 63): Textile heritage, Haw River trails, Triangle access
-- **Charleston, SC** (slug `charleston`, city_id 77)
+- **Charleston, SC** (slug `charleston`, city_id 77): Cobblestones, steeples, salt marsh, live oaks
 - **Charlotte, NC** (slug `charlotte`, city_id 35): Uptown skyline, mountain drives, coastal weekends
 - **Charlottesville, VA** (slug `charlottesville`, city_id 20): University town charm in the foothills of the Blue Ridge Mountains
 - **Chesapeake, VA** (slug `chesapeake`, city_id 21): Spacious Hampton Roads living with great schools and outdoor recreation
 - **Chicago, IL** (slug `chicago`, city_id 3): Big-city energy, neighborhood soul
-- **Columbia, SC** (slug `columbia`, city_id 78)
+- **Columbia, SC** (slug `columbia`, city_id 78): Three rivers, one campus, famously hot capital
 - **Columbus, GA** (slug `columbus`, city_id 70): Urban whitewater, RiverWalk views, Fort Moore neighbors
 - **Daytona Beach, FL** (slug `daytona-beach`, city_id 56): Home of the 500, miles of drivable beach
-- **Durham, NC** (slug `durham`, city_id 80)
+- **Durham, NC** (slug `durham`, city_id 80): Bull City grit, Triangle innovation
 - **Fort Lauderdale, FL** (slug `fort-lauderdale`, city_id 40): Canals, yachts, Las Olas Boulevard, waterfront living
 - **Frederick, MD** (slug `frederick`, city_id 14): Clustered spires, Carroll Creek trails, Catoctin foothills
 - **Gastonia, NC** (slug `gastonia`, city_id 64): Textile roots, mountain trails, Charlotte commute
-- **Greensboro, NC** (slug `greensboro`, city_id 85)
-- **Greenville, SC** (slug `greenville`, city_id 79)
+- **Greensboro, NC** (slug `greensboro`, city_id 85): A&T pride, Woolworth history, greenway life
+- **Greenville, SC** (slug `greenville`, city_id 79): Reedy River falls, Swamp Rabbit Trail, Blue Ridge foothills
 - **Hampton, VA** (slug `hampton`, city_id 22): Waterfront Hampton Roads living with deep history and coastal charm
 - **Hillsborough, NC** (slug `hillsborough`, city_id 62): Historic Eno River town beside Duke Forest
 - **Houston, TX** (slug `houston`, city_id 75): Bayou city, energy capital, global kitchen, no zoning
@@ -60,18 +60,18 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **San Diego, CA** (slug `san-diego`, city_id 73): From the Gaslamp Quarter to La Jolla, find your San Diego apartment.
 - **Sanford, FL** (slug `sanford`, city_id 55): Historic riverfront living on Lake Monroe
 - **Santa Clara, CA** (slug `santa-clara`, city_id 74): The heart of Silicon Valley living
-- **Savannah, GA** (slug `savannah`, city_id 81)
+- **Savannah, GA** (slug `savannah`, city_id 81): Historic squares beneath moss draped live oaks
 - **Severn, MD** (slug `severn`, city_id 48): Fort Meade neighbor, BWI close, Baltimore DC commute
 - **Signal Mountain, TN** (slug `signal-mountain`, city_id 68): Walden Ridge views, Chattanooga minutes, trail life
-- **St. Petersburg, FL** (slug `st-petersburg`, city_id 83)
+- **St. Petersburg, FL** (slug `st-petersburg`, city_id 83): Bay breezes, mural miles, endless sunshine
 - **Sterling, VA** (slug `sterling`, city_id 42): Tech corridor homes near Dulles and Great Falls
-- **Suffolk, VA** (slug `suffolk`, city_id 82)
+- **Suffolk, VA** (slug `suffolk`, city_id 82): Peanut country beside the Great Dismal Swamp
 - **Tampa, FL** (slug `tampa`, city_id 34): Sun, sand, and city living by the bay
 - **Towson, MD** (slug `towson`, city_id 46): Campus energy, downtown high-rises, tree-lined streets
 - **Vero Beach, FL** (slug `vero-beach`, city_id 53): Indian River citrus meets Atlantic shores
 - **Warsaw, VA** (slug `warsaw`, city_id 43): Northern Neck charm on Rappahannock waters
 - **Washington, DC** (slug `washington`, city_id 26): Grid streets, traffic circles, power corridors
-- **West Palm Beach, FL** (slug `west-palm-beach`, city_id 84)
+- **West Palm Beach, FL** (slug `west-palm-beach`, city_id 84): Mediterranean charm, Northwood arts, intracoastal sunsets
 - **Woodbridge, VA** (slug `woodbridge`, city_id 45): Potomac views, Occoquan charm, quick DC commute
 
 ## Coming soon (waitlist only, hunts cannot start)
