@@ -34,6 +34,7 @@ the production API.
 | Chicago, IL |  |
 | Columbia, SC |  |
 | Columbus, GA |  |
+| Dallas, TX |  |
 | Daytona Beach, FL |  |
 | Durham, NC |  |
 | Fort Lauderdale, FL |  |

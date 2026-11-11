@@ -22,6 +22,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Chicago, IL** (slug `chicago`, city_id 3): Big-city energy, neighborhood soul
 - **Columbia, SC** (slug `columbia`, city_id 78): Three rivers, one campus, famously hot capital
 - **Columbus, GA** (slug `columbus`, city_id 70): Urban whitewater, RiverWalk views, Fort Moore neighbors
+- **Dallas, TX** (slug `dallas`, city_id 88): Big D energy: apartment hunting across the DFW metros core.
 - **Daytona Beach, FL** (slug `daytona-beach`, city_id 56): Home of the 500, miles of drivable beach
 - **Durham, NC** (slug `durham`, city_id 80): Bull City grit, Triangle innovation
 - **Fort Lauderdale, FL** (slug `fort-lauderdale`, city_id 40): Canals, yachts, Las Olas Boulevard, waterfront living
