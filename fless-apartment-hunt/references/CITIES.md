@@ -22,7 +22,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Chicago, IL** (slug `chicago`, city_id 3): Big-city energy, neighborhood soul
 - **Columbia, SC** (slug `columbia`, city_id 78): Three rivers, one campus, famously hot capital
 - **Columbus, GA** (slug `columbus`, city_id 70): Urban whitewater, RiverWalk views, Fort Moore neighbors
-- **Dallas, TX** (slug `dallas`, city_id 88): Big D energy: apartment hunting across the DFW metros core.
+- **Dallas, TX** (slug `dallas`, city_id 88): Oil money skyline, arts district, taco trail Texas
 - **Daytona Beach, FL** (slug `daytona-beach`, city_id 56): Home of the 500, miles of drivable beach
 - **Durham, NC** (slug `durham`, city_id 80): Bull City grit, Triangle innovation
 - **Fort Lauderdale, FL** (slug `fort-lauderdale`, city_id 40): Canals, yachts, Las Olas Boulevard, waterfront living
@@ -40,7 +40,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Kissimmee, FL** (slug `kissimmee`, city_id 54): Lake Toho bass, theme park minutes, real Florida
 - **Lake Panasoffkee, FL** (slug `lake-panasoffkee`, city_id 60): Spring-fed lake, trophy bass, pure Old Florida
 - **Leesburg, VA** (slug `leesburg`, city_id 6): Historic charm meets modern convenience in Loudoun County, 35 miles west of DC.
-- **Manhattan, NY** (slug `manhattan`, city_id 72): From Battery Park to Washington Heights, find your Manhattan apartment.
+- **Manhattan, NY** (slug `manhattan`, city_id 72): Skyline canyons, Central Park heart, 24/7 energy
 - **Memphis, TN** (slug `memphis`, city_id 66): Beale Street beats, dry-rub ribs, mighty river
 - **Miami, FL** (slug `miami`, city_id 29): Biscayne blue, Wynwood colors, Latin nights
 - **Miami Beach, FL** (slug `miami-beach`, city_id 52): Oceanfront Art Deco living with Latin rhythm
@@ -60,7 +60,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Reno, NV** (slug `reno`, city_id 65): High desert river city, Tahoe minutes away
 - **Richmond, VA** (slug `richmond`, city_id 19): Virginia's capital city: historic charm, riverfront living, and a booming food scene
 - **Rock Hill, SC** (slug `rock-hill`, city_id 69): Revitalized mills, riverfront trails, Charlotte adjacent
-- **San Diego, CA** (slug `san-diego`, city_id 73): From the Gaslamp Quarter to La Jolla, find your San Diego apartment.
+- **San Diego, CA** (slug `san-diego`, city_id 73): Surf mornings, burrito runs, endless perfect weather
 - **Sanford, FL** (slug `sanford`, city_id 55): Historic riverfront living on Lake Monroe
 - **Santa Clara, CA** (slug `santa-clara`, city_id 74): The heart of Silicon Valley living
 - **Savannah, GA** (slug `savannah`, city_id 81): Historic squares beneath moss draped live oaks
