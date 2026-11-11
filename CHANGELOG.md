@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.12.0 (2026-11-11) fless-apartment-hunt
+- Coverage sync release: Brooklyn NY live + Queens NY live.
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.18.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.11.0 (2026-11-10) fless-apartment-hunt
 - Coverage sync release: listing copy changed: taglines for the 9 new cities (charleston, columbia, durham, greensboro, greenville, savannah, st-petersburg, suffolk, west-palm-beach).
 - CITIES.md + all README city tables + package descriptions regenerated

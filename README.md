@@ -25,6 +25,7 @@ the production API.
 | Bethesda, MD |  |
 | Boston, MA |  |
 | Brandon, FL |  |
+| Brooklyn, NY |  |
 | Burlington, NC |  |
 | Charleston, SC |  |
 | Charlotte, NC |  |
@@ -65,6 +66,7 @@ the production API.
 | Phoenix, AZ |  |
 | Pittsburgh, PA |  |
 | Prince Frederick, MD |  |
+| Queens, NY |  |
 | Raleigh, NC |  |
 | Reno, NV |  |
 | Richmond, VA |  |

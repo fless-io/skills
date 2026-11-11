@@ -13,6 +13,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Bethesda, MD** (slug `bethesda`, city_id 47): NIH campus, Walter Reed, Red Line lifestyle
 - **Boston, MA** (slug `boston`, city_id 39): Cobblestones meet CRISPR, harbor meets Kendall, T connects all
 - **Brandon, FL** (slug `brandon`, city_id 57): Major mall hub, Tampa minutes, suburban affordability
+- **Brooklyn, NY** (slug `brooklyn`, city_id 86): Borough of brownstones, bridges, and boundless hustle
 - **Burlington, NC** (slug `burlington`, city_id 63): Textile heritage, Haw River trails, Triangle access
 - **Charleston, SC** (slug `charleston`, city_id 77): Cobblestones, steeples, salt marsh, live oaks
 - **Charlotte, NC** (slug `charlotte`, city_id 35): Uptown skyline, mountain drives, coastal weekends
@@ -53,6 +54,7 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Phoenix, AZ** (slug `phoenix`, city_id 76): Sonoran sprawl, mountain views, endless summer days
 - **Pittsburgh, PA** (slug `pittsburgh`, city_id 37): Three rivers, hundreds of bridges, home
 - **Prince Frederick, MD** (slug `prince-frederick`, city_id 50): Calvert County seat near Chesapeake Bay
+- **Queens, NY** (slug `queens`, city_id 87): Borough of 190 nations, endless neighborhoods to call home
 - **Raleigh, NC** (slug `raleigh`, city_id 36): Oak shaded streets, Research Triangle pace
 - **Reno, NV** (slug `reno`, city_id 65): High desert river city, Tahoe minutes away
 - **Richmond, VA** (slug `richmond`, city_id 19): Virginia's capital city: historic charm, riverfront living, and a booming food scene
