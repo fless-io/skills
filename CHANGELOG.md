@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.15.0 (2026-11-15) fless-apartment-hunt
+- Coverage sync release: rockville, silver-spring now live; listing copy changed (tagline/name/state).
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.21.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.14.0 (2026-11-11) fless-apartment-hunt
 - Coverage sync release: taglines + per-hood rents: dallas/manhattan/san-diego descriptive taglines, 7 cities real rent spreads.
 - CITIES.md + all README city tables + package descriptions regenerated

@@ -16,9 +16,9 @@ the production API.
 
 | ✅ Live now | 🚧 Coming soon |
 |---|---|
-| Alexandria, VA | Rockville, MD |
-| Annapolis, MD | Silver Spring, MD |
-| Arlington, VA | Virginia Beach, VA |
+| Alexandria, VA | Virginia Beach, VA |
+| Annapolis, MD |  |
+| Arlington, VA |  |
 | Ashburn, VA |  |
 | Atlanta, GA |  |
 | Baltimore, MD |  |
@@ -72,12 +72,14 @@ the production API.
 | Reno, NV |  |
 | Richmond, VA |  |
 | Rock Hill, SC |  |
+| Rockville, MD |  |
 | San Diego, CA |  |
 | Sanford, FL |  |
 | Santa Clara, CA |  |
 | Savannah, GA |  |
 | Severn, MD |  |
 | Signal Mountain, TN |  |
+| Silver Spring, MD |  |
 | St. Petersburg, FL |  |
 | Sterling, VA |  |
 | Suffolk, VA |  |

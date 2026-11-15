@@ -60,12 +60,14 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 - **Reno, NV** (slug `reno`, city_id 65): High desert river city, Tahoe minutes away
 - **Richmond, VA** (slug `richmond`, city_id 19): Virginia's capital city: historic charm, riverfront living, and a booming food scene
 - **Rock Hill, SC** (slug `rock-hill`, city_id 69): Revitalized mills, riverfront trails, Charlotte adjacent
+- **Rockville, MD** (slug `rockville`, city_id 27): Live central to DC from King Farm to West Side
 - **San Diego, CA** (slug `san-diego`, city_id 73): Surf mornings, burrito runs, endless perfect weather
 - **Sanford, FL** (slug `sanford`, city_id 55): Historic riverfront living on Lake Monroe
 - **Santa Clara, CA** (slug `santa-clara`, city_id 74): The heart of Silicon Valley living
 - **Savannah, GA** (slug `savannah`, city_id 81): Historic squares beneath moss draped live oaks
 - **Severn, MD** (slug `severn`, city_id 48): Fort Meade neighbor, BWI close, Baltimore DC commute
 - **Signal Mountain, TN** (slug `signal-mountain`, city_id 68): Walden Ridge views, Chattanooga minutes, trail life
+- **Silver Spring, MD** (slug `silver-spring`, city_id 28): Urban charm meets nature near DC
 - **St. Petersburg, FL** (slug `st-petersburg`, city_id 83): Bay breezes, mural miles, endless sunshine
 - **Sterling, VA** (slug `sterling`, city_id 42): Tech corridor homes near Dulles and Great Falls
 - **Suffolk, VA** (slug `suffolk`, city_id 82): Peanut country beside the Great Dismal Swamp
@@ -79,8 +81,6 @@ Fless currently operates in **Arizona / California / District of Columbia / Flor
 
 ## Coming soon (waitlist only, hunts cannot start)
 
-- Rockville, MD (slug `rockville`)
-- Silver Spring, MD (slug `silver-spring`)
 - Virginia Beach, VA (slug `virginia-beach`)
 
 ## Coverage rule for agents
