@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.16.0 (2026-11-18) fless-apartment-hunt
+- Coverage sync release: revert 18 under-threshold cities to coming_soon (boston-class onboarding wave followup, 2026-11-18).
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.22.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.15.0 (2026-11-15) fless-apartment-hunt
 - Coverage sync release: rockville, silver-spring now live; listing copy changed (tagline/name/state).
 - CITIES.md + all README city tables + package descriptions regenerated

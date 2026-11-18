@@ -16,10 +16,9 @@ the production API.
 
 | ✅ Live now | 🚧 Coming soon |
 |---|---|
-| Alexandria, VA | Virginia Beach, VA |
+| Alexandria, VA |  |
 | Annapolis, MD |  |
 | Arlington, VA |  |
-| Ashburn, VA |  |
 | Atlanta, GA |  |
 | Baltimore, MD |  |
 | Bethesda, MD |  |
@@ -39,57 +38,41 @@ the production API.
 | Durham, NC |  |
 | Fort Lauderdale, FL |  |
 | Frederick, MD |  |
-| Gastonia, NC |  |
 | Greensboro, NC |  |
 | Greenville, SC |  |
 | Hampton, VA |  |
-| Hillsborough, NC |  |
 | Houston, TX |  |
 | Jacksonville, FL |  |
-| Kennett Square, PA |  |
 | Kernersville, NC |  |
 | Key Biscayne, FL |  |
 | Kissimmee, FL |  |
-| Lake Panasoffkee, FL |  |
 | Leesburg, VA |  |
 | Manhattan, NY |  |
 | Memphis, TN |  |
 | Miami, FL |  |
 | Miami Beach, FL |  |
-| Middle River, MD |  |
-| Midlothian, VA |  |
 | Naples, FL |  |
 | Nashville, TN |  |
-| North Port, FL |  |
 | Orlando, FL |  |
-| Parkville, MD |  |
 | Philadelphia, PA |  |
 | Phoenix, AZ |  |
 | Pittsburgh, PA |  |
-| Prince Frederick, MD |  |
 | Queens, NY |  |
 | Raleigh, NC |  |
 | Reno, NV |  |
 | Richmond, VA |  |
-| Rock Hill, SC |  |
 | Rockville, MD |  |
 | San Diego, CA |  |
-| Sanford, FL |  |
 | Santa Clara, CA |  |
 | Savannah, GA |  |
-| Severn, MD |  |
-| Signal Mountain, TN |  |
 | Silver Spring, MD |  |
 | St. Petersburg, FL |  |
-| Sterling, VA |  |
 | Suffolk, VA |  |
 | Tampa, FL |  |
 | Towson, MD |  |
-| Vero Beach, FL |  |
-| Warsaw, VA |  |
+| Virginia Beach, VA |  |
 | Washington, DC |  |
 | West Palm Beach, FL |  |
-| Woodbridge, VA |  |
 
 <!-- city-coverage:end -->
 
