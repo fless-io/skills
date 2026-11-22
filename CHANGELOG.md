@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.18.0 (2026-11-21) fless-apartment-hunt
+- Coverage sync release: listing copy changed (tagline/name/state).
+- CITIES.md + all README city tables + package descriptions regenerated
+  from the production API (auto release pipeline; no hand-edited lists).
+- fless-mcp package metadata refresh (1.24.0).
+- No MCP tool behavior changes - data + copy sync only.
+
 ## 2.17.0 (2026-11-19) fless-apartment-hunt
 - Coverage sync release: listing copy changed (tagline/name/state).
 - CITIES.md + all README city tables + package descriptions regenerated
